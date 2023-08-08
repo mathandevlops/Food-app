@@ -1,0 +1,10 @@
+.home{
+    background-image: url(/src/components/assets/istockphoto-918002944-1024x1024.jpg);
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    color: black;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}

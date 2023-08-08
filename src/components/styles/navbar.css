@@ -1,0 +1,26 @@
+.navbar{
+ display: flex;
+ background-color: rgb(173, 50, 5);
+ contain: 5px;
+ padding: 0px 100px;
+ justify-content: space-between;
+ align-items: center;
+ border: 1px solid  black;
+ color: rgb(196, 191, 191);
+}
+img{
+    height: 50px;
+    width: 50px;
+}
+.rightside{
+    color: black;
+    display: flex;
+    gap: 25px;
+}
+
+Link:hover{
+    color: white;
+    background-color: rgb(212, 86, 40);
+}
+
+

@@ -1,0 +1,46 @@
+.mainboard{
+  background-color: npm startrgb(245, 100, 47);
+}
+
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    background-color: rgb(168, 52, 10);
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+ .pizzaimage{
+    height: 150px;
+    width: 150px;
+ }
+  .price {
+    color: grey;
+    font-size: 22px;
+  }
+  .mainmenu{
+    background-color: rgb(241, 109, 61);
+  }
+  .search-bar{
+    width: 400px;
+    height: 40px;
+    border-radius: 20px;
+  }
+  
+  .card button {
+    border: none;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .card button:hover {
+    opacity: 0.7;
+  }
+  
